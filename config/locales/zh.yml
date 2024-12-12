@@ -1,0 +1,9 @@
+zh:
+  redmine_latex_mathjax_config_title: "Redmine LaTeX MathJax 配置"
+  redmine_latex_mathjax_label_url: "MathJax URL:"
+  redmine_latex_mathjax_label_inline_delimiter_start: "内联LaTeX前定界符"
+  redmine_latex_mathjax_label_inline_delimiter_end: "内联LaTeX后定界符"
+  redmine_latex_mathjax_label_block_delimiter_start: "连续块LaTeX前定界符"
+  redmine_latex_mathjax_label_block_delimiter_end: "连续块LaTeX后定界符"
+  redmine_latex_mathjax_label_html_css_config: "MathJax HTML-CSS配置文件:"
+
